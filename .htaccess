@@ -1,0 +1,10 @@
+# https://www.ionos.fr/digitalguide/hebergement/aspects-techniques/les-meilleures-astuces-htaccess/
+# pages erreur
+ErrorDocument 404 /crud/site/notfound.php
+# PHP Memory Limit
+php_value memory_limit 128M
+# Insérer le fuseau horaire
+SetEnv TZ Europe/Paris
+# Définir le codage de caractères
+AddDefaultCharset utf-8
+

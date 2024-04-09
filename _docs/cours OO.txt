@@ -1,0 +1,5 @@
+https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php
+
+https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php
+Pattern MVC
+https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php/7847928-decouvrez-comment-fonctionne-une-architecture-mvc
