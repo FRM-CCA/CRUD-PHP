@@ -1,4 +1,4 @@
-CRUD PHP [Classic / Layers / MVC] Démo
+CRUD PHP [Classic / Layers / MVC] Demo
 
 config/contsDb.php 
 change db password for xampp 
